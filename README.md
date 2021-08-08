@@ -19,7 +19,8 @@ This dashboard shows users the weather for the city that they search for. A list
 Example of the live site being used:
 
 
-![Example](https://user-images.githubusercontent.com/83360651/128640196-b285b077-435e-4526-82d2-034f613186de.gif)
+![demo](https://user-images.githubusercontent.com/83360651/128642241-8875ebd1-9279-483b-a952-455896ef95b0.gif)
+
 
 ## Contributors 
 * Aisha Yasin
